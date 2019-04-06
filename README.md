@@ -1,2 +1,2 @@
-# secretadmin
-Joomla Secret Admin Plugin provides the administrator page hidden.
+# Secret Admin Plugin for Joomla
+Provides the administrator page hidden.

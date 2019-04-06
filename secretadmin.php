@@ -3,7 +3,7 @@
   * @package Plugin Secretadmin for Joomla!
   * @version 1.3
   * @author ANIL ALCI
-  * @copyright (C) 2019- ANIL ALCI
+  * @copyright (C) 2019 ANIL ALCI
   * @license GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html
  **/
 
